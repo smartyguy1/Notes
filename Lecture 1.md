@@ -1,1 +1,1 @@
-This is a test of sync
+This is a test of sync on github.
