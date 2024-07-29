@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e14c30a292979bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a new note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "This is a new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "This is a new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1.md"
+                "file": "This is a new note.md"
               }
             }
           }
@@ -146,9 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54d84af0193b3fbe",
+  "active": "e14c30a292979bf6",
   "lastOpenFiles": [
-    "README.md",
-    "Lecture 1.md"
+    "This is a new note.md",
+    "Lecture 1.md",
+    "Untitled",
+    "CS50/Week 4 (Memory)/Strings.md",
+    "CS50/Week 4 (Memory)/Pointers.md",
+    "CS50/Week 4 (Memory)/Pixels and Hexadecimals.md",
+    "CS50/Week 4 (Memory)/Input.md",
+    "CS50/Week 4 (Memory)/File Pointers.md",
+    "CS50/Week 4 (Memory)/Dynamic Memory Allocation.md",
+    "CS50/Week 4 (Memory)/Defining Custom Types.md",
+    "CS50/Week 3 (Algorithms)/Sorting.md",
+    "CS50/Week 3 (Algorithms)/Search Algorithms.md",
+    "CS50/Week 3 (Algorithms)/Running time.md",
+    "CS50/Week 3 (Algorithms)/Recursion.md",
+    "CS50/Week 3 (Algorithms)/ProblemSet (Tideman).md",
+    "CS50/Week 3 (Algorithms)/Data Structures.md",
+    "CS50/Week 2 (Arrays)/Debugging.md",
+    "CS50/Week 2 (Arrays)/Cryptography.md",
+    "CS50/Week 2 (Arrays)/Compiling Process in C.md",
+    "CS50/Week 2 (Arrays)/Command-line Arguments.md",
+    "CS50/Week 2 (Arrays)/Arrays.md",
+    "CS50/Week 1 (C)/Operators.md",
+    "CS50/Week 1 (C)/Loops.md",
+    "CS50/Week 1 (C)/Header Files.md",
+    "CS50/Week 1 (C)/Functions.md",
+    "CS50/Week 1 (C)/Data Types and Variables.md",
+    "CS50/Week 4 (Memory)",
+    "CS50/Week 3 (Algorithms)",
+    "CS50/Week 2 (Arrays)",
+    "CS50/Week 1 (C)",
+    "CS50",
+    "README.md"
   ]
 }
